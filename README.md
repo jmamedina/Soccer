@@ -1,2 +1,1 @@
-# sumo-battle
 # unity-soccer
